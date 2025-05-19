@@ -1,8 +1,18 @@
-# React + Vite
+# React TicTacToe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple TicTacToe game built with React to practice and learn the useState hook for state management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- 🎯 Interactive 3x3 TicTacToe board  
+- ⚛️ Built using React functional components and useState hook  
+- 🔄 Dynamic state updates for moves and game status  
+---
+
+## How to Run
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/react-tictactoe.git
